@@ -1,4 +1,4 @@
-package Chpater6;
+package chapter6;
 
 public class StaticMethod {
     public int add(int a, int b) {

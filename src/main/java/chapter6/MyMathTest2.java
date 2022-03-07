@@ -1,4 +1,4 @@
-package Chpater6;
+package chapter6;
 
 class MyMath2 {
     long a, b;
