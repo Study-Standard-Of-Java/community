@@ -1,4 +1,4 @@
-package Chpater6;
+package chapter6;
 
 public class MemberCall {
     int iv = 10;

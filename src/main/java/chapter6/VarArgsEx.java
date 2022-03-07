@@ -1,4 +1,4 @@
-package Chpater6;
+package chapter6;
 
 public class VarArgsEx {
     public static void main(String[] args) {

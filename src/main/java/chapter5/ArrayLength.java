@@ -1,8 +1,7 @@
-package Chapter5;
+package chapter5;
 
 import java.util.HashMap;
 import java.util.Hashtable;
-import java.util.Map;
 
 public class ArrayLength {
     public static void main(String[] args) {
