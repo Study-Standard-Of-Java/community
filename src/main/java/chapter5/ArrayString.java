@@ -1,5 +1,7 @@
 package chapter5;
 
+import java.util.Arrays;
+
 public class ArrayString {
     public static void main(String[] args) {
         String[] name = new String[3];
