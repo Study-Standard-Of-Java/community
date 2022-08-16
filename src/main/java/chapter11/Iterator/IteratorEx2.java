@@ -1,6 +1,7 @@
 package chapter11.Iterator;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Iterator;
 
 public class IteratorEx2 {

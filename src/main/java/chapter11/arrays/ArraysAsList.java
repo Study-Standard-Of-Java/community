@@ -1,5 +1,6 @@
 package chapter11.arrays;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -9,5 +10,13 @@ public class ArraysAsList {
 
         List<String> strings = Arrays.asList(new String[]{"ab", "cd"});
 
+        List<String> list = new ArrayList<>();
+
+        list.add("1");
+        list.add("2");
+        list.add("3");
+        System.out.println(list.toString());
+        list.add(1,"5");
+        System.out.println(list.toString());
     }
 }
